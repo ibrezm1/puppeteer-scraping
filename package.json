@@ -1,0 +1,19 @@
+{
+  "name": "puppeteertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "final.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "json-2-csv": "^3.14.1",
+    "node-fetch": "^2.6.1",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^10.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
